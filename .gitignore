@@ -1,0 +1,57 @@
+
+Resource-Collectors-Johan/Assets/TextMesh Pro/Sprites/EmojiOne.png
+Resource-Collectors-Johan/Assets/TextMesh Pro/Sprites/EmojiOne.json
+Resource-Collectors-Johan/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMPro.cginc
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+Resource-Collectors-Johan/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+Resource-Collectors-Johan/Assets/TextMesh Pro/Resources/TMP Settings.asset
+Resource-Collectors-Johan/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+Resource-Collectors-Johan/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+Resource-Collectors-Johan/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+Resource-Collectors-Johan/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+Resource-Collectors-Johan/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+Resource-Collectors-Johan/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+Resource-Collectors-Johan/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+Resource-Collectors-Johan/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+Resource-Collectors-Johan/Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+Resource-Collectors-Johan/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+Resource-Collectors-Johan/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+Resource-Collectors-Johan/Assets/Prefabs/Lumberyard.prefab
+Resource-Collectors-Johan/Assets/Scenes/SampleScene.unity
+Resource-Collectors-Johan/ProjectSettings/AudioManager.asset
+Resource-Collectors-Johan/ProjectSettings/ClusterInputManager.asset
+Resource-Collectors-Johan/ProjectSettings/DynamicsManager.asset
+Resource-Collectors-Johan/ProjectSettings/EditorBuildSettings.asset
+Resource-Collectors-Johan/ProjectSettings/EditorSettings.asset
+Resource-Collectors-Johan/ProjectSettings/GraphicsSettings.asset
+Resource-Collectors-Johan/ProjectSettings/InputManager.asset
+Resource-Collectors-Johan/ProjectSettings/NavMeshAreas.asset
+Resource-Collectors-Johan/ProjectSettings/NetworkManager.asset
+Resource-Collectors-Johan/ProjectSettings/PackageManagerSettings.asset
+Resource-Collectors-Johan/ProjectSettings/Physics2DSettings.asset
+Resource-Collectors-Johan/ProjectSettings/PresetManager.asset
+Resource-Collectors-Johan/ProjectSettings/ProjectSettings.asset
+Resource-Collectors-Johan/ProjectSettings/ProjectVersion.txt
+Resource-Collectors-Johan/ProjectSettings/QualitySettings.asset
+Resource-Collectors-Johan/ProjectSettings/TagManager.asset
+Resource-Collectors-Johan/ProjectSettings/TimeManager.asset
+Resource-Collectors-Johan/ProjectSettings/UnityConnectSettings.asset
+Resource-Collectors-Johan/ProjectSettings/VersionControlSettings.asset
+Resource-Collectors-Johan/ProjectSettings/VFXManager.asset
+Resource-Collectors-Johan/ProjectSettings/XRSettings.asset
+Resource-Collectors-Johan/UserSettings/EditorUserSettings.asset
