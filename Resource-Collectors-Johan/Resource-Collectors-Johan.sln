@@ -1,14 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditMode", "EditMode.csproj", "{24fa9f32-9fa0-0575-a067-bbc3f3f92fcc}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{24fa9f32-9fa0-0575-a067-bbc3f3f92fcc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24fa9f32-9fa0-0575-a067-bbc3f3f92fcc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24fa9f32-9fa0-0575-a067-bbc3f3f92fcc}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24fa9f32-9fa0-0575-a067-bbc3f3f92fcc}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
